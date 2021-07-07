@@ -52,6 +52,8 @@ This is the [sample data set](https://drive.google.com/file/d/1WPknOb-Y3jIGaNc-2
 ## Authors
 
 P mcgoohan
+
+Find me on 
 [Twitter](https://twitter.com/pmcgoohanCrypto), 
 [Medium](https://pmcgoohan.medium.com), 
 [Github](https://github.com/pmcgoohan), 
