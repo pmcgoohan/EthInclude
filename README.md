@@ -40,7 +40,7 @@ Informal spot checks suggest it does a pretty good job, but the technique would 
 
 ### Dependencies
 
-* .Net Core
+* .Net Core and IDE (Visual Studio 2019 / Visual Studio Code)
 * MySql
 * Ethereum node (eg: [Infura](https://infura.io/))
 * [Flashbots API](https://blocks.flashbots.net/)
