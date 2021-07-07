@@ -1,2 +1,2 @@
 # EthInclude
-Ethereum transaction arrival and inclusion time data extraction
+Ethereum transaction arrival and inclusion time data extraction and reporting.
