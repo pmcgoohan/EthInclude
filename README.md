@@ -21,7 +21,7 @@ MEV type categorization can be performed by examining the relative position of d
 |backrun attack|lit first txs, dark final tx|
 |other|none of the above, including single tx bundles|
 
-Limitations:
+### Limitations
 
 Because categorization relies on arrival/inclusion time metadata and not the deep parsing of tx contents, some bundles may be misclassified.
 
