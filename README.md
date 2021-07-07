@@ -45,6 +45,10 @@ Informal spot checks suggest it does a pretty good job, but the technique would 
 * Ethereum node (eg: [Infura](https://infura.io/))
 * [Flashbots API](https://blocks.flashbots.net/)
 
+## Sample Data
+
+This is the [sample data set](https://drive.google.com/file/d/1WPknOb-Y3jIGaNc-2wA3VuWkUjXxuS8O) used in MEV type categorization in [my talk](https://www.youtube.com/watch?v=zf2l3veT9EI&t=114s).
+
 ## Authors
 
 P mcgoohan
