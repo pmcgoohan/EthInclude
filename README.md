@@ -36,7 +36,7 @@ Informal spot checks suggest it does a pretty good job, but the technique would 
 * Enter the number of pending txs in the system (typically around 150000. For accurate arrival times, ignore these early txs when reporting)
 * Collect data for as long as you want (note: disconnections are not gracefully handled at the moment)
 * Run MySql/reports/update_bundles_nblock.sql against the db to update reporting fields
-* Run sql reports against it (eg: MySql/reports/ mev_report, sandwich_backruns_browser)
+* Run sql reports against it (see MySql/reports for examples)
 
 ### Dependencies
 
