@@ -52,7 +52,7 @@ P mcgoohan
 [Medium](https://pmcgoohan.medium.com), 
 [Github](https://github.com/pmcgoohan), 
 [Eth.Research](https://ethresear.ch/u/pmcgoohan), 
-[Reddit - predicting MEV in 2014](https://www.reddit.com/r/ethereum/comments/2d84yv/miners_frontrunning)
+[Reddit (predicting MEV in 2014)](https://www.reddit.com/r/ethereum/comments/2d84yv/miners_frontrunning)
 
 ## License
 
