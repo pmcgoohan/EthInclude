@@ -1,6 +1,6 @@
 # Eth Include
 
-Ethereum transaction arrival and inclusion time data extraction and reporting allowing for limited MEV type classification.
+Extraction of Ethereum transaction arrival and inclusion times allowing for limited MEV type classification.
 
 ## Description
 
@@ -12,7 +12,7 @@ In doing so, it allows for the broad categorization of [Flashbots MEVA bundles](
 
 ## MEV Categorization Methodology
 
-MEV type categorization can be performed by examining the relative position of dark txs (those added at block creation by the miner) and lit txs (those than arrive through the mempool) in individual MEVA bundles.
+MEV type categorization can be performed by examining the relative position of dark txs (those added at block creation by the miner) and lit txs (those that arrive through the mempool) in individual MEVA bundles.
 
 |MEV type|Identifying features|
 |---|---|
