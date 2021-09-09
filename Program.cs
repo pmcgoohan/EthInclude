@@ -37,7 +37,7 @@ namespace EthInclude
 
             // connect to eth node
             var client = new StreamingWebSocketClient(DB.GetConfig("WssNodePath"));
-            _web3 = new Nethereum.Web3.Web3(DB.GetConfig("WssNodePath"));
+            _web3 = new Nethereum.Web3.Web3(DB.GetConfig("HttpsNodePath"));
 
             // subscribe blocks
             var blockHeaderSubscription = new EthNewBlockHeadersObservableSubscription(client);
