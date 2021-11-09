@@ -11,10 +11,10 @@
     <PackageReference Include="Microsoft.Extensions.Configuration.CommandLine" Version="5.0.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="5.0.0" />
     <PackageReference Include="MySql.Data" Version="8.0.25" />
-    <PackageReference Include="Nethereum.Geth" Version="3.8.0" />
-    <PackageReference Include="Nethereum.JsonRpc.WebSocketClient" Version="3.8.0" />
-    <PackageReference Include="Nethereum.RPC.Reactive" Version="3.8.0" />
-    <PackageReference Include="Nethereum.Web3" Version="3.8.0" />
+    <PackageReference Include="Nethereum.Geth" Version="4.0.4" />
+    <PackageReference Include="Nethereum.JsonRpc.WebSocketClient" Version="4.0.4" />
+    <PackageReference Include="Nethereum.RPC.Reactive" Version="4.0.4" />
+    <PackageReference Include="Nethereum.Web3" Version="4.0.4" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="System.Drawing.Common" Version="5.0.2" />
   </ItemGroup>
